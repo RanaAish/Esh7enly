@@ -1,0 +1,12 @@
+<resourse> // to override colors
+
+<color name="payment_sdk_secondary_color">#bc3827</color>
+
+<color name="payment_sdk_stroke_color">#bc3827</color>
+]
+<color name="payment_sdk_button_background_color">#bc3827</color>
+
+
+<color name="payment_sdk_secondary_font_color">#bc3827</color> 
+<color name="payment_sdk_title_text_color">#bc3827</color>
+</resourse>
